@@ -19,9 +19,6 @@ A fully interactive, simulated Linux desktop terminal environment built with HTM
 
 Just open the `index.html` file in your browser—no setup required.
 
-## 🖼️ Screenshots
-
-![Web Terminal Screenshot](https://i.ibb.co/C3s8ZLK2/Screenshot-2025-06-02-185812.png)
 
 ## 📁 File Structure
 
