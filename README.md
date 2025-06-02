@@ -21,7 +21,7 @@ Just open the `index.html` file in your browser—no setup required.
 
 ## 🖼️ Screenshots
 
-![Web Terminal Screenshot](https://i.ibb.co/Mx5S4dk/screenshot.png)
+![Web Terminal Screenshot](https://i.ibb.co/C3s8ZLK2/Screenshot-2025-06-02-185812.png)
 
 ## 📁 File Structure
 
