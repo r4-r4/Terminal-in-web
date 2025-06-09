@@ -1,4 +1,4 @@
-# 🐧 Linux Desktop Web Terminal
+# 🐧 Linux Terminal in Web
 
 A fully interactive, simulated Linux desktop terminal environment built with HTML, CSS, and JavaScript. This project provides a fun and educational way to experience a Linux-like terminal inside your browser.
 
