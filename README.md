@@ -1,8 +1,8 @@
-# 🐧 Linux Terminal in Web
+#  Linux Terminal in Web
 
 A fully interactive, simulated Linux desktop terminal environment built with HTML, CSS, and JavaScript. This project provides a fun and educational way to experience a Linux-like terminal inside your browser.
 
-## 🌟 Features
+## Features
 
 - **Desktop-like UI** with icons, taskbar, and simulated windows.
 - **Interactive Terminal** supporting a wide range of commands:
@@ -15,12 +15,12 @@ A fully interactive, simulated Linux desktop terminal environment built with HTM
 - **Matrix Effect** animation triggered from the desktop
 - **Nano-style Text Editor** built-in
 
-## 🚀 Getting Started
+## Getting Started
 
 Just open the `index.html` file in your browser—no setup required.
 
 
-## 📁 File Structure
+## File Structure
 
 - `index.html` — All the logic, UI, and terminal functionality in a single file.
 
